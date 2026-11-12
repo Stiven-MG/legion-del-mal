@@ -6,7 +6,7 @@
 ![Release](https://img.shields.io/github/v/release/Stiven-MG/legion-del-mal)
 ![Issues](https://img.shields.io/github/issues/Stiven-MG/legion-del-mal)
 ![Último commit](https://img.shields.io/github/last-commit/Stiven-MG/legion-del-mal)
-![Licencia](https://img.shields.io/github/license/Stiven-MG/legion-del-mal)
+![Licencia](https://img.shields.io/github/license/Stiven-MG/legion-del-mal?cacheSeconds=60)
 
 # 🦹‍♂️ La Legión del Mal
 
